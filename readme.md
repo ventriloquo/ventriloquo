@@ -7,3 +7,5 @@ projetos e projetos que eu contribuí.
 
 (também tem o meu [site](https://tukain.codeberg.pages), dá uma olhadinha
 depois :D)
+
+[![O que eu manjo](https://skillicons.dev/icons?i=html,css,git,neovim,linux,bash)](https://skillicons.dev)
