@@ -2,8 +2,8 @@
 
 Olá, espero que você esteja bem.
 
-Bem-vindo ao meu perfil do Codeberg, lugar onde você vai encontrar meus
-projetos e projetos que eu contribuí.
+Bem-vindo ao meu perfil! Aqui é um lugar onde você vai encontrar meus
+projetos pessoais e outros que eu contribuí.
 
 (também tem o meu [site](https://tukain.xyz), dá uma olhadinha
 depois :D)
