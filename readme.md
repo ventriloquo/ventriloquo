@@ -8,4 +8,4 @@ projetos pessoais e outros que eu contribuí.
 (também tem o meu [site](https://tukain.xyz), dá uma olhadinha
 depois :D)
 
-![](https://skillicons.dev/icons?i=linux,neovim,bash,markdown,html,css,javascript,git)
+![](https://skillicons.dev/icons?i=emacs,linux,neovim,bash,markdown,html,css,javascript,git)
