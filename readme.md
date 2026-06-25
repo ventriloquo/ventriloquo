@@ -14,4 +14,7 @@ depois :D)
 
 ![](https://skillicons.dev/icons?i=vim,neovim,emacs,linux,plan9,bash,markdown,html,css,javascript,git)
 
-![](./rtfm.jpeg)
+
+<center>
+  <img src="./rtfm.jpeg" height="300">
+</center>
