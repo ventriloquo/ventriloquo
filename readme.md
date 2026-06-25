@@ -12,9 +12,11 @@ Gosto de:
 (também tem o meu [site](https://tukainpng.neocities.org), dá uma olhadinha
 depois :D)
 
-![](https://skillicons.dev/icons?i=vim,neovim,emacs,linux,plan9,bash,markdown,html,css,javascript,git)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vim,neovim,emacs,linux,plan9,bash,markdown,html,css,javascript,git">
+</div>
 
-
-<center>
+<div align="center">
   <img src="./rtfm.jpeg" height="300">
-</center>
+</div>
+
